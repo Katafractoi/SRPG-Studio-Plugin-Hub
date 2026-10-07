@@ -20,16 +20,15 @@ Some plugins require custom parameters or additional setup. Please read the head
 
 | 中文名 | Plugin | Description |
 |---|---|---|
-| 背刺 | BackStab | 无视特定条件下目标防御 / Ignore defense when an ally is adjacent to the target |
-| 必杀后自身获得状态 | CritRecoil | 必杀后为自身附加特定状态 / Gain a specified state after a critical hit |
-| 更多追击 | MorePursuit | 按攻速差设置不同追击次数 / Configure follow-up count by AGI difference |
+| 背刺 | BackStab | 目标周围存在友军时无视防御 / Ignore defense when an ally is adjacent to the target |
+| 必杀后自身获得状态 | CritRecoil | 必杀后为自身附加指定状态 / Gain a specified state after a critical hit |
+| 更多追击 | MorePursuit | 按攻速差设置不同追击轮数 / Configure follow-up count by AGI difference |
 | 跪姿射击 | KneelShoot | 未移动时获得命中、必杀与伤害加成 / Gain bonuses when attacking without moving |
 | 老兵 | Veteran | 根据等级与职业阶段获得梯度属性加成 / Gain scaled bonuses from level and class tier |
 | 刃鳞 | BladeScale | 回避攻击时恢复武器耐久 / Restore weapon durability after dodging |
 | 追击必杀加成 | PursuitCrt | 可追击时提高必杀率 / Increase critical rate when a pursuit is possible |
 | 正面对决 | FairFight | 敌人可反击时获得战斗加成 / Gain combat bonuses when the enemy can counter |
 | 过量伤害 | OverKill | 将部分过量伤害转化为下一战加成 / Carry part of excess damage into the next battle |
-| 替身术 | SubstitutionJutsu | 受击时取消伤害与剩余战斗并重新出现 / Cancel damage and remaining combat, then reposition |
 
 ### Weapon-Item / 武器与道具
 
@@ -42,7 +41,7 @@ Some plugins require custom parameters or additional setup. Please read the head
 | 中文名 | Plugin | Description |
 |---|---|---|
 | 技能弹出滑入特效 | SkillTitlePopUp | 技能发动时显示弹出或滑入特效 / Show pop-up or slide-in effects on skill activation |
-| 真实战斗 UI 滑入 | RealBattleUISlideIn | 为真实战斗上下 UI 添加滑入动画 / Add slide-in animation to real-battle UI |
+| 真实战斗 UI 滑入 | RealBattleUISlideIn | 为真实战斗上下 UI 添加滑入动画 / Add slide-in animation to the real-battle UI |
 | 武器道具技能图标另行显示 | ExtraEquipmentItemSkillRow | 武器/道具技能在主技能区下方另行显示 / Display weapon/item skills in a separate row |
 
 ## Repository Structure / 仓库结构
@@ -64,9 +63,7 @@ Repository filenames use concise English names for easier linking, scripting, an
 
 ## itch.io
 
-The public download page is also maintained on itch.io:  
-公开下载页面同时维护于 itch.io：
-
+Public download page / 公开下载页:  
 https://katafract.itch.io/katafracts-srpg-studio-plugin-hub
 
 ## License / 许可
