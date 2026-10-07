@@ -1,0 +1,106 @@
+{
+  "plugins": [
+    {
+      "bytes": 2886,
+      "channel": "blade-scale",
+      "legacy_upload_id": "14131324",
+      "path": "Plugins/Combat/刃鳞BladeScale.js",
+      "sha256": "060bbfa9905f0a18e0571bd6c03f81c0b1e2f146456ed7130fbc9c693274a107"
+    },
+    {
+      "bytes": 2214,
+      "channel": "crit-recoil",
+      "legacy_upload_id": "14131320",
+      "path": "Plugins/Combat/必杀后自身获得状态CritRecoil.js",
+      "sha256": "972b1fa25d58dfed90fd9573b106a96c2e70d31e88d3851813f9c06679fafac3"
+    },
+    {
+      "bytes": 3608,
+      "channel": "more-pursuit",
+      "legacy_upload_id": "14131321",
+      "path": "Plugins/Combat/更多追击MorePursuit.js",
+      "sha256": "33a7b6e43c4152af2931ebc52df9b5046b7c8a2daf6f947b83ea99fb88964afa"
+    },
+    {
+      "bytes": 14792,
+      "channel": "substitution-jutsu",
+      "legacy_upload_id": "18844850",
+      "path": "Plugins/Combat/替身术SubstitutionJutsu.js",
+      "sha256": "2cfff31b7fe8132cf71234cb9a45a3558dbfecc90e180fd88c2fd4767cde5904"
+    },
+    {
+      "bytes": 3246,
+      "channel": "fair-fight",
+      "legacy_upload_id": "14607727",
+      "path": "Plugins/Combat/正面对决FairFight.js",
+      "sha256": "6c31161f7084af3f80361b36c704bda00eaa99b429c97ca6b8e058b0bd4ef172"
+    },
+    {
+      "bytes": 3512,
+      "channel": "veteran",
+      "legacy_upload_id": "14131323",
+      "path": "Plugins/Combat/老兵Veteran.js",
+      "sha256": "865f7b49da2b5a51af9667f5db16af02d5a845aaedd5ce7a21b07f9a1c2781c7"
+    },
+    {
+      "bytes": 2516,
+      "channel": "backstab",
+      "legacy_upload_id": "14131319",
+      "path": "Plugins/Combat/背刺BackStab.js",
+      "sha256": "013235462150ef20ee8aac71410c63b6f1a2331cb4892c1a87914d8a4363d0ba"
+    },
+    {
+      "bytes": 3378,
+      "channel": "kneel-shoot",
+      "legacy_upload_id": "14234627",
+      "path": "Plugins/Combat/跪姿射击KneelShoot.js",
+      "sha256": "3be2cad85051a8c1fb44ae1532f4fbac1e5acac59c18638972d8bbcdd575628b"
+    },
+    {
+      "bytes": 3383,
+      "channel": "overkill",
+      "legacy_upload_id": "15828480",
+      "path": "Plugins/Combat/过量伤害OverKill.js",
+      "sha256": "42534cef3bd623cb69116b17fb74ed64670fd77e6076f562ee05b442d5b352b3"
+    },
+    {
+      "bytes": 1513,
+      "channel": "pursuit-crt",
+      "legacy_upload_id": "14607415",
+      "path": "Plugins/Combat/追击必杀加成技能PursuitCrt.js",
+      "sha256": "19c82aeeabc5bd5c38e01052426338fd4a7e9c0ea03dba8266cb90f2f18517ad"
+    },
+    {
+      "bytes": 6738,
+      "channel": "skill-title-popup",
+      "legacy_upload_id": "14943764",
+      "path": "Plugins/UI/技能弹出滑入特效SkillTitlePopUp.js",
+      "sha256": "ed2a70dab3d28e1785be932c47e648ce9ebe716909b8b71ac1131ce54700f94c"
+    },
+    {
+      "bytes": 10681,
+      "channel": "extra-equipment-item-skill-row",
+      "legacy_upload_id": "15838009",
+      "path": "Plugins/UI/武器道具技能图标另行显示Extra Row for EquipmentItem Skill Icons.js",
+      "sha256": "3a6f23287a59ecabba22db0a349d4e8ed8841f42b7d49ca1488d6a586dbb425a"
+    },
+    {
+      "bytes": 4418,
+      "channel": "real-battle-ui-slide-in",
+      "legacy_upload_id": "15415340",
+      "path": "Plugins/UI/真实战斗UI滑入RealBattle-UI-slide-in.js",
+      "sha256": "a1a0e308e7ec71a87ebefe015a7c4971428a56e1e0f9cbd19b4644eb2ebe32bb"
+    },
+    {
+      "bytes": 3424,
+      "channel": "recharge-weapon",
+      "legacy_upload_id": "16455063",
+      "path": "Plugins/Weapon-Item/自动修复型武器Rechargeweapon.js",
+      "sha256": "a0e31deea15ab9349434ca8cfbd617a82bd223b7538bb04293b81a1ddad8127b"
+    }
+  ],
+  "project": "katafract/katafracts-srpg-studio-plugin-hub",
+  "schema": 1,
+  "source_commit": "fa8bfc729916f4ad958118a3a20d3f0d6d85722c",
+  "source_page": "https://katafract.itch.io/katafracts-srpg-studio-plugin-hub"
+}
