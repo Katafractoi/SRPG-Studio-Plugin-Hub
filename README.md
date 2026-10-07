@@ -63,6 +63,11 @@ Single-file plugins stay directly inside their category folder. A plugin gets it
 Public download page / 公开下载页:  
 https://katafract.itch.io/katafracts-srpg-studio-plugin-hub
 
+## Release maintenance / 发布维护
+
+See [release instructions](docs/RELEASING.md) for the public-file manifest and validation-only workflow. itch.io publishing is not enabled yet.  
+公开文件清单与仅校验工作流见[发布说明](docs/RELEASING.md)。itch.io 自动发布尚未启用。
+
 ## License / 许可
 
 Free to use, modify, and redistribute in both free and commercial projects. Attribution is optional. See [LICENSE](LICENSE) for details.  
