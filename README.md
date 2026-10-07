@@ -29,6 +29,7 @@ Some plugins require custom parameters or additional setup. Please read the head
 | 追击必杀加成 | PursuitCrt | 可追击时提高必杀率 / Increase critical rate when a pursuit is possible |
 | 正面对决 | FairFight | 敌人可反击时获得战斗加成 / Gain combat bonuses when the enemy can counter |
 | 过量伤害 | OverKill | 将部分过量伤害转化为下一战加成 / Carry part of excess damage into the next battle |
+| 替身术 | SubstitutionJutsu | 受击时将伤害变为 0、终止剩余战斗并重新出现 / Negate the hit, cancel the remaining combat, then reappear on a valid tile |
 
 ### Weapon-Item / 武器与道具
 
@@ -56,10 +57,6 @@ Plugins/
 Single-file plugins stay directly inside their category folder. A plugin gets its own folder only when it needs multiple scripts, assets, examples, or extended documentation.  
 单文件插件直接放在分类目录中；仅当插件包含多个脚本、素材、示例或较长说明时，才单独建立文件夹。
 
-## Naming / 命名
-
-Repository filenames use concise English names for easier linking, scripting, and maintenance. Chinese names remain in the README and plugin headers.  
-仓库文件名统一使用简洁英文名，便于链接、脚本与自动化维护；中文名保留在 README 与插件头部说明中。
 
 ## itch.io
 
